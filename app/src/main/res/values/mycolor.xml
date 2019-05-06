@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#3F51B5</color>
+    <color name="pink">#EB95D2</color>
+
+    <drawable name="lemongreen">#80C0EEB3</drawable>
+    <drawable name="lightyellow">#FFE309</drawable>
+</resources>
